@@ -1,0 +1,107 @@
+ UNI,Unit
+ MET,Meter
+ FEU,Sheet
+ PAQ,Package
+ CAM,Truck
+ UN1,Unit 1 m
+ UN1.5,Unit 1.5 m
+ UN2,Unit 2 m
+ UN3,Unit 3 m
+ UN4,Unit 4 m
+ UN5,Unit 5 m
+ UN6,Unit 6 m
+ UN9,Unit 9 m
+ UN10,Unit 10 m
+ UN20,Unit 20 m
+ UN50,Unit 50 cm
+ UN114,Unit 1"1/14
+ U3P,Unit 3 Rooms
+ U4P,Unit 4 pieces
+ U6P,Unit 6 rooms
+ U7P,Unit 7 rooms
+ U8P,Unit 8 rooms
+ U12P,Unit 12 rooms
+ U2.5K,Unit 2.5 kg
+ U1K,Unit 1 kg
+ U2K,Unit 2 kgs
+ U3K,Unit 3 kgs
+ U9K,Unit 9 kgs
+ U10K,Unit 10 kgs
+ U12K,Unit 12 kgs
+ U20K,Unit 20 kgs
+ U2B,Unit 2 bars
+ U4B,Unit 4 bars
+ U100,Unit 100 * 50
+ U05,Unit 0.5 cm
+ U1000V,Unit 1000 V
+ U1L,Unit 1 liter
+ U500ML,Unit 500 ml
+ U2P,Unit 2 pots
+ U2M,Unit 2nd hand
+ KIT,Kit
+ BC,Jar
+ BD,Canister
+ BD5,5 liter
+ BD20,20 liter canister
+ BD40,40 liter canister
+ BT,Box
+ BAR,Bar
+ TUB,Tube
+ COU,Elbow
+ LG3,3m length
+ 5M,5 meters
+ 6M,6 meters
+ M2,Square feet
+ BAL,Ballot
+ LIT,Liter
+ LI2,Unit 2 liters
+ LI3,Unit 3 liters
+ LI10,Unit 10 liters
+ LI25,Unit 25 liters
+ BTL,Bottle
+ SCT,Bag
+ D12,Dozen
+ D10,dixaine
+ POT,Pot
+ POT5,5 liters pot
+ POT20,20 liters Pot
+ POT25,25 liters Pot
+ P5K,Pot 5 kgs
+ P10K,Pot of 10 kgs
+ P20K,Pot of 20 kgs
+ PC20,Room 20 m
+ PL,Plate
+ ENS,Together
+ 1J,1 day
+ BBN,Cylinder
+ FUT,Fut
+ LT5,5 liters
+ RL,Roller
+ RL2,Roll 2 m
+ RL6,Roll of 6 m
+ RL9,Roll 9 m
+ RL10,10 m roll
+ RL12,12 m roll
+ RL14,14 m roll
+ RL15,15 m roll
+ RL16,16 m roll
+ RL30,30 m roll
+ RL50,50 m roll
+ RL100,Roll of 100 m
+ PQ8,Pack of 8
+ PQ30,Pack of 30
+ PQ1000,Pack of 1000
+ PAI,Pair
+ PCH,Pocket
+ TRI,Quarterly
+ BND,Band
+ SC10,Bag of 10 kgs
+ CT,Box
+ CT5,Box of 5
+ CT50,Box of 50
+ SC,Bag
+ ST5,5 kg bag
+ PQ30,Pack of 30
+ PQ400,400 Pack
+ CT12,Box of 12
+ KG,Kg

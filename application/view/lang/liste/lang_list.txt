@@ -1,0 +1,2 @@
+ fr Français (France)
+ en English (US)

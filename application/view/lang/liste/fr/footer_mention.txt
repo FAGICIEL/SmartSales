@@ -1,0 +1,3 @@
+ confident Confidentialité
+ apropos À propos
+ help Aide

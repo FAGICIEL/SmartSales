@@ -1,0 +1,107 @@
+ UNI,Unité
+ MET,Mètre
+ FEU,Feuille
+ PAQ,Paquet
+ CAM,Camion
+ UN1,Unité de 1 m
+ UN1.5,Unité de 1.5 m
+ UN2,Unité de 2 m
+ UN3,Unité de 3 m
+ UN4,Unité de 4 m
+ UN5,Unité de 5 m
+ UN6,Unité de 6 m
+ UN9,Unité de 9 m
+ UN10,Unité de 10 m
+ UN20,Unité de 20 m
+ UN50,Unité de 50 cm
+ UN114,Unité de 1"1/14
+ U3P,Unité de 3 pièces
+ U4P,Unité de 4 pièces
+ U6P,Unité de 6 pièces
+ U7P,Unité de 7 pièces
+ U8P,Unité de 8 pièces
+ U12P,Unité de 12 pièces
+ U2.5K,Unité de 2.5 kgs
+ U1K,Unité de 1 kg
+ U2K,Unité de 2 kgs
+ U3K,Unité de 3 kgs
+ U9K,Unité de 9 kgs
+ U10K,Unité de 10 kgs
+ U12K,Unité de 12 kgs
+ U20K,Unité de 20 kgs
+ U2B,Unité de 2 barres
+ U4B,Unité de 4 barres
+ U100,Unité de 100*50
+ U05,Unité de 0.5 cm
+ U1000V,Unité de 1000 V
+ U1L,Unité de 1 litres
+ U500ML,Unité de 500 ml
+ U2P,Unité de 2 pots
+ U2M,Unité de 2eme main
+ KIT,Kit
+ BC,Bocal
+ BD,Bidon
+ BD5,Bidon de 5 litres
+ BD20,Bidon de 20 litres
+ BD40,Bidon de 40 litres
+ BT,Boite
+ BAR,Barre
+ TUB,Tube
+ COU,Coude
+ LG3,3m de longueur
+ 5M,5 mètres
+ 6M,6 mètres
+ M2,Mètre carre
+ BAL,Ballot
+ LIT,Litre
+ LI2,Unité de 2 litres
+ LI3,Unité de 3 litres
+ LI10,Unité de 10 litres
+ LI25,Unité de 25 litres
+ BTL,Bouteille
+ SCT,Sachet
+ D12,Douzaine
+ D10,Dixaine
+ POT,Pot
+ POT5,Pot de 5 litres
+ POT20,Pot de 20 litres
+ POT25,Pot de 25 litres
+ P5K,Pot de 5 kgs
+ P10K,Pot de 10 kgs
+ P20K,Pot de 20 kgs
+ PC20,Pièce de 20 m
+ PL,Plaque
+ ENS,Ensemble
+ 1J,1 jour
+ BBN,Bonbonne
+ FUT,Fut
+ LT5,5 litres
+ RL,Rouleau
+ RL2,Rouleau de 2 m
+ RL6,Rouleau de 6 m
+ RL9,Rouleau de 9 m
+ RL10,Rouleau de 10 m
+ RL12,Rouleau de 12 m
+ RL14,Rouleau de 14 m
+ RL15,Rouleau de 15 m
+ RL16,Rouleau de 16 m
+ RL30,Rouleau de 30 m
+ RL50,Rouleau de 50 m
+ RL100,Rouleau de 100 m
+ PQ8,Paquet de 8
+ PQ30,Paquet de 30
+ PQ1000,Paquet de 1000
+ PAI,Paire
+ PCH,Pochette
+ TRI,Trimestriel
+ BND,Bande
+ SC10,Sac de 10 kgs
+ CT,Carton
+ CT5,Carton de 5
+ CT50,Carton de 50
+ SC,Sac
+ ST5,Sachet de 5 kgs
+ PQ30,Paquet de 30
+ PQ400,Paquet de 400
+ CT12,Carton de 12
+ KG,Kg
